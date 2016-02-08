@@ -1,2 +1,2 @@
 # UTDomGameContent
-Content for the UTDomGameMode plugin for the UT4 Editor
+Content (uasset files) for the UTDomGameMode plugin for the UT4 Editor
